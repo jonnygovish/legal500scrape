@@ -2,6 +2,11 @@
 
 Legal500 Scraper is a python script for extracting and storing information about law firms listed on the Legal 500 website.
 
+## Requirements
+
+* Python 3.6+
+* Works on Linux, Windows, macOS
+
 ## Installation
 
 Run the following command to clone the project
