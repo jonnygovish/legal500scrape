@@ -20,6 +20,10 @@ Activate the virtual environment
 ```bash
 source venv/bin/activate
 ```
+Install scrapy and other dependecies
+```bash
+pip3 install scrapy pillow requests bs4
+```
 
 ## Usage
 
